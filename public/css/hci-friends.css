@@ -12,3 +12,14 @@
 h1, h2, h3, h4, h5 {
 	color: #8382BF;
 }
+
+/* applies to anything of class "friend" */
+.friend {
+	max-width: 500px;
+
+}
+
+.responsive {
+	width: 500px;
+	max-width: 500px;
+}
